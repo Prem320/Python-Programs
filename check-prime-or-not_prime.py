@@ -1,4 +1,3 @@
-# 1- Write a program in python check the prime or not prime
 num=int(input("Enter the any values:"))
 for i in range(2,num):
     if num%i==0:
