@@ -1,3 +1,4 @@
+#Write a program in python revserse list using for loop
 li=[2,6,1,9,11]
 new_list=[]
 for i in range(len(li)-1,-1,-1):
